@@ -4,7 +4,7 @@ body {
 }
 #header {
   position: fixed;
-  background-color: yellow;
+  background-color: pink;
   top: 0;
   left: 0;
   width: 100%;
@@ -12,7 +12,7 @@ body {
 }
 
 #left-sidebar {
-  background-color: blueviolet;
+  background-color: #333b3f;
   position: fixed;
   top: 60px;
   left: 0;
