@@ -33,7 +33,7 @@ export default function Table({ columns, data }) {
     useSortBy
   );
 
-  // Update the state when input changes
+  
   const handleFilterChange = (e) => {
     const value = e.target.value || "";
     const name = e.target.name;
