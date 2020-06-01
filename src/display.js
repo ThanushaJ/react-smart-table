@@ -1,5 +1,5 @@
 import React from "react";
-import Table from "./table";
+import Table from "./Table";
 import "bootstrap/dist/css/bootstrap.min.css";
 import random, { headers } from "./randomData";
 import "./display.css";
