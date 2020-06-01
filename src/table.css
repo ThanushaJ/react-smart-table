@@ -1,0 +1,63 @@
+/* Important */
+.container-div {
+  display: flex;
+}
+
+.btn-info {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  margin-right: 1%;
+  right: 30%;
+  float: right;
+  width: 10%;
+}
+
+.table {
+  background-color: cyan;
+  height: 100%;
+  width: 100%;
+  color: black;
+  overflow: auto;
+  margin-left: 8px !important;
+  margin-right: 8px !important;
+}
+
+.table-filter {
+  background-color: cyan;
+  height: 100%;
+  max-width: 70%;
+  overflow: auto;
+  float: left;
+  margin-top: 2% !important;
+  margin-left: 8px !important;
+  margin-right: 8px !important;
+}
+
+#hide-filter {
+  display: none;
+}
+
+.formDiv {
+  background-color: darkorchid;
+  width: 30%;
+  margin-top: 10px;
+  float: right;
+  margin-top: 2% !important;
+  margin-right: 8px !important;
+}
+.tableDiv {
+  background-color: cyan;
+  height: 100%;
+  min-width: 70%;
+  overflow: auto;
+  float: left;
+  margin-top: 2% !important;
+  margin-left: 8px !important;
+  margin-right: 8px !important;
+}
+
+#filter-form {
+  margin-top: 12.5% !important;
+  margin-left: 8px;
+  margin-right: 8px;
+}
