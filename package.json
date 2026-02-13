@@ -10,7 +10,7 @@
     "chance": "^1.1.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-table": "^7.1.0"
   },
   "scripts": {
